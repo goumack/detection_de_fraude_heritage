@@ -5,7 +5,7 @@ import numpy as np
 from pathlib import Path
 
 # Configuration du modèle
-deployed_model_name = "fraud"
+deployed_model_name = "fraud-serve"
 infer_endpoint = "https://fraud-serve-lab-ai-models.apps.origins.heritage.africa"
 infer_url = f"{infer_endpoint}/v2/models/{deployed_model_name}/infer"
 
