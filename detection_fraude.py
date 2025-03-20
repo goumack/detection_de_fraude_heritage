@@ -38,7 +38,7 @@ st.set_page_config(page_title="Fraud Detection", page_icon="💳", layout="wide"
 st.markdown(
     """
     <div style="text-align: center;">
-        <h1 style="color: #004080;">💳 Example de Détection de Fraude Bancaire par Accel-Tech</h1>
+        <h1 style="color: #004080;">💳 Example de Détection de Fraude Bancaire par Accel-Tech sur origins</h1>
         <p style="color: #555;">Ceci est un exemlpe d'Analyse des transactions pour une sécurité optimale.</p>
         <hr>
     </div>
